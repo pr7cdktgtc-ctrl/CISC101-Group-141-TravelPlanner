@@ -1,4 +1,11 @@
+Change Log (2025-11-11): – Add possibibility of lost or delayed luggage
+
+0. **Lost or Delayed Luggage**
+
+- If flight arrival includes luggage delay or loss → suggest nearby shopping spots or essentials store, and adjust first activity to a light/local one requiring no gear.
+
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
+
 
 1. **Closed Venue**
    
