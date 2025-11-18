@@ -1,8 +1,8 @@
 Collect essential details:
 
-- Destination(s)
-- Dates or trip length
-- Number of travelers
+- Destination(s) (City, Country)
+- Dates or trip length (YYYY-MM-DD)
+- Number of travelers (Must be positive integer)
 - Budget style (affordable, mid-range, luxury)
 - Interests (food, culture, nature, etc.)
 - Preferred pace (relaxed, balanced, fast)
